@@ -1,0 +1,11 @@
+body {
+  background: cyan;
+  margin: 50px;
+  font-family: fantasy;
+}
+
+.mypara{
+  color: red;
+  font-family: inherit;
+  font-size: 15px;
+}
